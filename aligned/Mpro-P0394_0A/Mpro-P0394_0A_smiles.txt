@@ -1,0 +1,1 @@
+CCS(N(CC1)CCN1c1cc(CC(Nc2cncc3ccccc23)=O)cc(Cl)c1)(=O)=O
